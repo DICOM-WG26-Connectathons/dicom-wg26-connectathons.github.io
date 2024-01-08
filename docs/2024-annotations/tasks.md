@@ -2,14 +2,14 @@
 
 ## Archive
 
-| Task Label | Deadline   | Description / Details |
+| Task Label | Deadline   | Description           |
 |------------|------------|-----------------------|
 | AR-101     | 2024.xx.xx | Complete registration |
 
 
 ## Viewer
 
-| Task Label | Deadline   | Description / Details |
+| Task Label | Deadline   | Description           |
 |------------|------------|-----------------------|
 | V-101      | 2024.xx.xx | Complete registration |
 | V-102      | 2024.xx.xx | Complete Viewer Survey |
@@ -32,7 +32,7 @@
 
 ## Annotation User
 
-| Task Label | Deadline   | Description / Details |
+| Task Label | Deadline   | Description           |
 |------------|------------|-----------------------|
 | AU-101     | 2024.xx.xx | Complete registration |
 | AU-102     | 2024.xx.xx | Complete User Survey |
