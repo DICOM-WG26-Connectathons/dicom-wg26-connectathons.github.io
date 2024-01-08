@@ -25,8 +25,15 @@ Organizations create scanner systems are welcome to collaborate with the other s
 | 2024.04.15 | |
 | 2024.05.15 | |
 
-# Participation Requirements
-General requirements are ....
+# Registration and Participant Survey
 
+Please see [Participant Registration / Surveys](./registration_survey.md) for details on these two topics.
+Registration is required of all systems.
+Surveys are required of some systems to ensure that the annotations that are created can be consumed by Viewer and Annotation User systems.
+
+# Participation Requirements
 System specific requirements are found on the [Participant Requirements](./requirements.md) page.
 
+# Tasks
+
+Please see [Participant Tasks](./tasks.md) for a complete list of tasks by participant role.
