@@ -63,7 +63,7 @@ There are no question specific to the archive.
    - Polylines (Single group sequence)
    - Polygons (Single group sequence)
    - Ellipses (Single group sequence)
-   - Rectangles (Single group sequence)### Annotation User
+   - Rectangles (Single group sequence)
 2. Describe any limitations on the combinations of graphical objects in one Annotation instance that your system can render. For example, even if you support different graphical objects, are you limited to a single type in one Annotation object? Do you support only certain combinations of graphical options?
 3. Describe any limitations on the number of Annotations in one Annotation instance imposed by your software. We assume these would be practical limits and not hard coded limits.
 4. Will your system support Annotations that appliy to all optical paths in an image?
