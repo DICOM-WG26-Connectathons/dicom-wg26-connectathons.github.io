@@ -37,3 +37,7 @@ System specific requirements are found on the [Participant Requirements](./requi
 # Tasks
 
 Please see [Participant Tasks](./tasks.md) for a complete list of tasks by participant role.
+
+# Reporting
+
+Please see [Reporting](./reporting.md) for an explanation of results reporting.
