@@ -5,6 +5,7 @@
 The Project Manager needs to maintain a record of results to serve as both a worklist of tasks to complete and as documentation for publishing finals results. The file [Project Manager Worksheets](./Project_Manager_Worksheets.xlsx) is a draft of what the Project Manager will likely use. Without describing the exact criteria for determining results, the notes below will guide interpretation.
 
 ### Creators Sheet
+![Example Creators Sheet](./images/pm_creators.png)
 1. One sheet is created to record results for all Annotation Creators in the Connectathon.
 2. Cells A3, A12 and A17 show how we identify the Annotation Creators. These could be real names or pseudonyms.
 3. Rows 4-10 show that Creator A creates Annotation instances of different types when categorized by the geographic objects in the object. Row 4 indicates that one object will contain only Points. Row 9 indicates a different object that will contain Polygons and Ellipses (only). We could as easily label these as Creator A-Sample 1, etc. Rows 13-16 show that Creator B provides fewer examples. Row 18 shows that Creator C provides a single object.
