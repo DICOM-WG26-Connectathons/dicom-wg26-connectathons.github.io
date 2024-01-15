@@ -1,7 +1,11 @@
 # Creator Document Annotations
 
-Partners: None
-Multiplicity: Once for each slide/annotation object pair
+|                   |                                       |
+|-------------------|---------------------------------------|
+| Test Participants | Annotation Creator                    |
+| Test Driver       | Annotation Creator                    |
+| Multiplicity      | Once for each slide that is annotated |
+
 
 ## Purpose
 The Annotation Creators document the annotations created to serve as a source of truth
