@@ -23,6 +23,7 @@ The Project Manager needs to maintain a record of results to serve as both a wor
 
 
 ### Viewer 1 Sheet
+![Example Viewer 1 Sheet](./images/pm_viewer1.png)
 1. We will create one sheet for each viewer application that registers for testing. These sheets are similar to the single sheet for all Annotation Creators. Each Viewer sheet is intended to show the status of testing that one Viewer in the context of all Annotatation Creator / Archive combinations.
 2. Columns A and B show the types of Annotations created by A, B and C
    -  A4 - B10 show the seven types created by Creator A
@@ -40,10 +41,12 @@ The Project Manager needs to maintain a record of results to serve as both a wor
    - Columns I-J are directly reported by the manager with help from a subject matter expert as needed.
 
 ### Viewer 2 Sheet
+![Example Viewer 2 Sheet](./images/pm_viewer2.png)
 1. The Viewer 2 sheet is similar to that for Viewer 1. The row/column labels are the same as in Viewer 1 because the combinations of geometric types and archives does not depend on the Viewer.
 2. Note cells with XXX-130. These are in the rows where the geometric type is Points (rows 4 and 13) and in the two Render test columns (F, J). Because these apply across both archives and are not in the Viewer 1 sheet, we would conclude there must be something that is inherent to Viewer 2. The reporting detals (XXX-130) should provide more detail.
 
 ### User 1 Sheet
+![Example User 1 Sheet](./images/pm_user1.png)
 1. The User 1 sheet is for a system that uses Annotation objects but does not render them. The format is the same as that used for the Viewer sheets with some exceptions.
 2. Columns E and F and I and J refer to Function 1 and Function 2. These are functions that are defined by the application creator and not by the testing program. We will have to determine these on a case by case basis and determine what kind of evidence is required to determine if Function 1 and/or Function 2 are successful.
 3. The example for User 1 had two functions (1 and 2). There can be other User sheets where there is a single function or more than two functions. That is determined by the application and not defined by the testing program.
