@@ -38,6 +38,11 @@ System specific requirements are found on the [Participant Requirements](./requi
 
 Please see [Participant Tasks](./tasks.md) for a complete list of tasks by participant role.
 
+# Test Index
+
+The list of tests is closely related to the tasks to be performed by the participants.
+The tests provide a formal description of what is required and how the various systems will be evaluated. Please see [Test Index](test_index.md)
+
 # Reporting
 
 Please see [Reporting](./reporting.md) for an explanation of results reporting.
