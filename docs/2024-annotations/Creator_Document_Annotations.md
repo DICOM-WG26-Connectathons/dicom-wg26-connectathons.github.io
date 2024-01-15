@@ -54,6 +54,7 @@ Image metadata is required to help test partners identify the WSI data used by A
 | DICOM Tag | Opt | Element Name or Other Name           |
 |-----------|-----|--------------------------------------|
 |    NA     |  R  | Annotation Creator Organization Name |
+| 0008,0020 |  R  | Study Date                           |
 | 0008,0050 |  O  | Accession Number                     |
 | 0008,0070 |  R  | Manufacturer                         |
 | 0008,1090 |  R  | Manufacturer's Model Name            |
@@ -77,6 +78,7 @@ Please do fill those in for completeness.
 | DICOM Tag | Opt | Element Name or Other Name           |
 |-----------|-----|--------------------------------------|
 |    NA     |  R  | Annotation Creator Organization Name |
+| 0008,0020 |  R  | Study Date                           |
 | 0008,0050 |  O  | Accession Number                     |
 | 0008,0070 |  R  | Manufacturer                         |
 | 0008,1090 |  R  | Manufacturer's Model Name            |
