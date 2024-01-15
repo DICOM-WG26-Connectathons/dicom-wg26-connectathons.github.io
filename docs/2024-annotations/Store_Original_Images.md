@@ -7,7 +7,7 @@
 | Multiplicity      | Once for each slide that is annotated |
 
 ## Purpose
-The Annotation Creators submit the original WSI data to the Archive system for storage.
+The Annotation Creator submits the original WSI data to the Archive system for storage.
 There are later tests where the Archive system will need to respond to QIDO-RS and WADO-RS requests.
 
 ## Evidence Required
