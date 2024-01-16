@@ -1,5 +1,14 @@
 # Participant Requirements
 
+## Management
+Management is defined as the Technical Project Manager with support as needed from participants or community members. The items listed under this *Management* section list items that will be provided as part of Connectathon testing.
+
+1. Management will provide a limited WSI dataset (5-10 images) that are suitable for annotation by Annotation Creator systems. Notes:
+   - These will be taken from previous WG 26 Connectathons and made available to all participants.
+   - Management may choose to accept contributions of DICOM-compliant images from other sources.
+   - This limited dataset is will not be large enough to serve as a training set for Machine Learning algorithms.
+   - This limited dataset may or may not contain tissue types and/or pathologies that are suitable for a particular automated annotation algorithm.
+
 ## Archive
 
 ## Viewer
@@ -21,5 +30,5 @@
     - The DICOM annotation instances will be placed into a Series Instance UID that is different from the source imaging.
     - All DICOM instances within the series will describe annotations using the same annotation modality.
 
-## Annotation User
+## Annotation Consumer
 
