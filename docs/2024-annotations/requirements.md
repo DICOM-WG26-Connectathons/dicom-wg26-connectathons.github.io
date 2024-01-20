@@ -1,5 +1,25 @@
 # Participant Requirements
 
+## Data Requirements
+See the last section on *Image Datasets* to understand how these will be submitted and used during the event.
+This section lists requirements on the WSI and Microscopy Bulk Simple Annotations objects.
+
+### Whole Slide Imaging
+1. Brightfield images will be used.
+2. Only TILED FULL images are allowed.
+   - Dimension Organization Type (0020,9311) shall be present with a value of TILED_FULL.
+3. Images shall contain one optical path.
+   - Number of Optical Paths (0048,0302) shall be present with a value of 1.
+   - Optical Path Sequence (0048,0105) shall contain one item.
+4. Only RGB images are allowed.
+   - Photometric Interpretation (0028,0004) shall contain the value RGB.
+5. Images will use one focal plane 
+   - Extended Depth of Field (0048,0012) shall have the value NO.
+6. No restrictions are placed on the type of staining used for the slide.
+7. We probably need to say something about the encoding of the stain information and possibly other metadata.
+
+### Microscopy Bulk Simple Annotations
+
 ## Management
 Management is defined as the Technical Project Manager with support as needed from participants or community members. The items listed under this *Management* section list items that will be provided as part of Connectathon testing.
 
