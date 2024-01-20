@@ -1,54 +1,87 @@
 # Participant Requirements
 
+## Publication of DICOM Objects
+1. All DICOM objects produced during the event will be made publicly available at the conclusion of the Connectathon.
+   - This includes original input images and Annotation objects produced by Annotation Creators.
+   - This does not include screen captures or video recordings of how Annotation Viewers render Annotation objects and/or WSI data.
+
 ## Data Requirements
 See the last section on *Image Datasets* to understand how these will be submitted and used during the event.
-This section lists requirements on the WSI and Microscopy Bulk Simple Annotations objects.
+This section (Data Requirements) lists requirements on the WSI and Microscopy Bulk Simple Annotations objects.
 
 ### Whole Slide Imaging
 1. Brightfield images will be used.
-2. Only TILED FULL images are allowed.
+2. Only RGB images are allowed.
+   - Photometric Interpretation (0028,0004) shall contain the value RGB.
+3. Modality (0008,0060) shall contain the value SM
+4. Only TILED FULL images are allowed.
    - Dimension Organization Type (0020,9311) shall be present with a value of TILED_FULL.
-3. Images shall contain one optical path.
+5. Images shall contain one optical path.
    - Number of Optical Paths (0048,0302) shall be present with a value of 1.
    - Optical Path Sequence (0048,0105) shall contain one item.
-4. Only RGB images are allowed.
-   - Photometric Interpretation (0028,0004) shall contain the value RGB.
-5. Images will use one focal plane 
+6. Images will use one focal plane 
    - Extended Depth of Field (0048,0012) shall have the value NO.
-6. No restrictions are placed on the type of staining used for the slide.
-7. We probably need to say something about the encoding of the stain information and possibly other metadata.
+7. No restrictions are placed on the type of staining used for the slide.
+8. *We probably need to say something about the encoding of the stain information and possibly other metadata.*
 
 ### Microscopy Bulk Simple Annotations
+1. Annotations will conform to the Microscopy Bulk Simple Annotations Storage SOP Class IOD (DICOM Supplement 222).
+2. Each annotation object will be stored within the StudyInstanceUID of the imaging it is generated in reference to.
+3. The DICOM annotation instances will be placed into a Series Instance UID that is different from the source imaging.
+   - All DICOM instances within the series will describe annotations using the same annotation modality.
+4. Annotations will use 2D Coordinate Type
+   - Annotation Coordinate Type (006A,0001) shall have the value 2D
+5. Volume relative annotations will be used
+   - Pixel Origin Interpretation (0048,0301) shall have the value VOLUME.
+6. Annotation objects may contain multiple annotation groups.
+   - Annotation Group Sequence is allowed to contain more than one item.
+7. An Annotation Creator is required to supply at least one Annotation object for at least one WSI object.
+   - Annotation Creators are not required to provide Annotation objects for all WSI objects used during the Connectathon.
+   - Annotation Creators are not prohibitedd from providing Annotation objects for more than one WSI object.
+8. An Annotation Creator is allowed to submit more than one Annotation object for a WSI object.
 
-## Management
-Management is defined as the Technical Project Manager with support as needed from participants or community members. The items listed under this *Management* section list items that will be provided as part of Connectathon testing.
+## Archive
+
+## Viewer
+1. Viewers will use QIDO-RS to search Archive systems for WSI and Annotation objects.
+   - Private query mechanisms are not allowed.
+2. Viewers will use WADO-RS to retrieve WSI and Annotation objects from Archive systems.
+   - Private retrieve methods are not allowed.
+3. Viewers shall be able to support multiple Annotation objects that are associated with one WSI object.
+   - Viewers shall be able to convey the multiple Annotation objects to the user through their user interface.
+   - The user shall be able to select and render any of the Annotation objects.
+   - Viewers are not required to support simultaneous rendering of more than one Annotation object.
+   - Viewers are not required to support rendering that would compare Annotation objects.
+4. Viewers shall support and render Annotation objects with multiple Annotation groups.
+   - Viewers shall be able to render all groups at one time or allow the user to render invidivual groups or subsets of groups.
+   - Viewers are not allowed to render some groups in an Annotation object but not others.
+   - Viewers shall present all groups to the human viewer. Depending on the software, the Viewer might present some groups but not others. However, the user must have a mechanism to see an inventory of all groups in any Annotation object.
+5. Viewers shall support and render all Graphic Type (0070,0023) shapes:
+   - POINT
+   - POLYLINE
+   - POLYGON
+   - ELLIPSE
+   - RECTANGLE
+6. *Need a statement about what happens as a user zooms through different levels in the pyramid. I envision at least saying that Annotations have to be rendered at all levels as the user zooms in and out.*
+
+
+## Annotation Creator
+
+1. Annotation Creators will use images provided by the Technical Project Manager or will use WSI data compliant with the DICOM Standard and that also meet the Connectathon restrictions listed in the section *Whole Slide Imaging*.
+   - Annotation Creators that supply their own WSI data will test the source images with the dciodvfy tool and will only submit images that have zero errors as reported by that tool.
+   - Annotation creator is responsible for testing the source images in their own laboratory but may contact the Project Manager for guidance / assistance.
+2. Annotation Creators will create DICOM Annotation objects per the specifications listed in the section *Microscopy Bulk Simple Annotations*.
+3. Annotation Creators shall provide Annotation objects to all participating Archive systems for storage and later retrieval.
+   - The preferred method to submit the Annotation objects is STOW-RS.
+   - Submission as DICOM Part 10 files is allowed. The Annotation Creator will negotiate a method to provide files with the Archive system(s).
+
+## Annotation Consumer
+
+## Image Datasets
+Management is defined as the Technical Project Manager with support as needed from participants or community members.
 
 1. Management will provide a limited WSI dataset (5-10 images) that are suitable for annotation by Annotation Creator systems. Notes:
    - These will be taken from previous WG 26 Connectathons and made available to all participants.
    - Management may choose to accept contributions of DICOM-compliant images from other sources.
    - This limited dataset is will not be large enough to serve as a training set for Machine Learning algorithms.
    - This limited dataset may or may not contain tissue types and/or pathologies that are suitable for a particular automated annotation algorithm.
-
-## Archive
-
-## Viewer
-
-## Annotation Creator
-
-1. Annotation Creator will provide source images that will be used for their annotations. Source images will be compliant with the DICOM VL Whole Slide Microscopy Image IOD with these additional requirements (taken from the 2024 DICOM Annotations Connectathon Proposal):
-   - All slide pyramid imaging will be stored within a single, {StudyInstanceUID}.{ImagingSeriesInstanceUID}.
-   - Source imaging will have Modality = SM
-   - Source imaging will be brightfield imaging.
-   - Source imaging will describe a focal plane and Z-Stack.
-   - All source imaging will be described using DimensionOrganizationType = TILED_FULL to implicitly define the imaging frame positioning based on frame order.
-
-2. Annotation Creator will test the source images with the dciodvfy tool and will only submit images that have zero errors as reported by that tool.
- - Annotation creator is responsible for testing the source images in their own laboratory but may contact the Project Manager for guidance / assistance.
-
- 3. Annotation Creator shall create annotations that conform to the XXX IOD with these additional requirements (taken from the 2024 DICOM Annotations Connectathon Proposal):
-    - Each annotation will be stored within the StudyInstanceUID of the imaging it is generated in reference to.
-    - The DICOM annotation instances will be placed into a Series Instance UID that is different from the source imaging.
-    - All DICOM instances within the series will describe annotations using the same annotation modality.
-
-## Annotation Consumer
-
