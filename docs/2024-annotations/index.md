@@ -18,17 +18,16 @@ Organizations create scanner systems are welcome to collaborate with the other s
 
 # Timeline
 
-| Date       |  Task                                                                                                        |
+| Date       |  Task Completion Date                                                                                        |
 |------------|--------------------------------------------------------------------------------------------------------------|
-| 2024.xx.xx | Registration Opens                                                                                           |
-| 2024.xx.xx | Registration Closes                                                                                          |
-| 2024.xx.xx | Annotation Creators submit images, annotations and other evidence                                            |
-| 2024.xx.xx | Annotation Viewers submit video evidence of rendered annotations                                             |
-| 2024.xx.xx | Similar item for Annotation User systems                                                                     |
-| 2024.xx.xx | Test Manager / Subject Matter Expert complete review of video evidence                                       |
-| 2024.xx.xx | Online review of Annotaton Viewers and Annotation Users by Test Manaager / Subject Matter Experts as needed. |
-| 2024.xx.xx | Internal report for participants                                                                             |
-| 2024.xx.xx | Public report / slides for ECDP                                                                              |
+| 2024.01.22 | Registration Opens                                                                                           |
+| 2024.02.15 | Registration Closes                                                                                          |
+| 2024.03.15 | Annotation Creators submit images, annotations and other evidence                                            |
+| 2024.04.05 | Annotation Viewers submit video evidence of rendered annotations                                             |
+| 2024.04.19 | Test Manager / Subject Matter Expert complete review of video evidence                                       |
+| 2024.04.26 | Online review of Annotaton Viewers and Annotation Users by Test Manaager / Subject Matter Experts as needed. |
+| 2024.05.10 | Internal report for participants                                                                             |
+| 2024.05.17 | Public report / slides for ECDP                                                                              |
 
 # Registration and Participant Survey
 
