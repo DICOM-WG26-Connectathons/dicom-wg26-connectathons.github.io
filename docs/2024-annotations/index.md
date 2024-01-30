@@ -29,11 +29,10 @@ Organizations create scanner systems are welcome to collaborate with the other s
 | 2024.05.10 | Internal report for participants                                                                             |
 | 2024.05.17 | Public report / slides for ECDP                                                                              |
 
-# Registration and Participant Survey
+# Registration
 
-Please see [Participant Registration / Surveys](./registration_survey.md) for details on these two topics.
-Registration is required of all systems.
-Surveys are required of some systems to ensure that the annotations that are created can be consumed by Viewer and Annotation User systems.
+Please see [Participant Registration](./registration_survey.md) for details on registration.
+You can skip the registration overview and proceed directly to the [Registration Form](https://forms.gle/YaRapfJjgCDGbwMq5).
 
 # Participation Requirements
 System specific requirements are found on the [Participant Requirements](./requirements.md) page.
