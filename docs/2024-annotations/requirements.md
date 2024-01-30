@@ -11,8 +11,10 @@ This section (Data Requirements) lists requirements on the WSI and Microscopy Bu
 
 ### Whole Slide Imaging
 1. Brightfield images will be used.
-2. Only RGB images are allowed.
-   - Photometric Interpretation (0028,0004) shall contain the value RGB.
+2. Only three channel 8-bit per channel color images are allowed.
+   - Samples per Pixel (0028,0002) shall contain the value 3
+   - Bits Allocated (0028,0100) shall contain the value 8
+   - Photometric Interpretation (0028,0004) shall contain the value RGB, YBR_FULL_422, YBR_ICT or YBR_RCT
 3. Modality (0008,0060) shall contain the value SM
 4. Only TILED FULL images are allowed.
    - Dimension Organization Type (0020,9311) shall be present with a value of TILED_FULL.
