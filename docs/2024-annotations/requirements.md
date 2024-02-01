@@ -24,7 +24,6 @@ This section (Data Requirements) lists requirements on the WSI and Microscopy Bu
 6. Images will use one focal plane 
    - Extended Depth of Field (0048,0012) shall have the value NO.
 7. No restrictions are placed on the type of staining used for the slide.
-8. *We probably need to say something about the encoding of the stain information and possibly other metadata.*
 
 ### Microscopy Bulk Simple Annotations
 1. Annotations will conform to the Microscopy Bulk Simple Annotations Storage SOP Class IOD (DICOM Supplement 222).
@@ -64,7 +63,9 @@ This section (Data Requirements) lists requirements on the WSI and Microscopy Bu
    - POLYGON
    - ELLIPSE
    - RECTANGLE
-6. *Need a statement about what happens as a user zooms through different levels in the pyramid. I envision at least saying that Annotations have to be rendered at all levels as the user zooms in and out.*
+6. This requirement is driven by the requirement *Annotations will use 2D Coordinate Type*. Annotations reference one image with an associated DICOM SOP Instance UID. This image may appear at any level within the imaging pyramid. The Viewer is required to be able to render the Annotation object when the Viewer is rendering the image referenced by that Annotation object.
+   - As the user zooms through the pyramid images at different zoom levels, the minimum requirement is that the Viewer be able to render the Annotation object when the user has reached a zoom level that corresponds to the reference image.
+   - This requirement is silent on rendering the Annotation object when the user is viewing images in the pyramid other than the referenced image.
 
 
 ## Annotation Creator
@@ -74,8 +75,8 @@ This section (Data Requirements) lists requirements on the WSI and Microscopy Bu
    - Annotation creator is responsible for testing the source images in their own laboratory but may contact the Project Manager for guidance / assistance.
 2. Annotation Creators will create DICOM Annotation objects per the specifications listed in the section *Microscopy Bulk Simple Annotations*.
 3. Annotation Creators shall provide Annotation objects to all participating Archive systems for storage and later retrieval.
-   - The preferred method to submit the Annotation objects is STOW-RS.
-   - Submission as DICOM Part 10 files is allowed. The Annotation Creator will negotiate a method to provide files with the Archive system(s).
+   - The preferred method to submit the Annotation objects is using the DICOM protocol: C-STORE or STOW-RS.
+   - Submission as DICOM Part 10 files using some out of band method is allowed. The Annotation Creator will negotiate a method to provide files with the Archive system(s) such as a service like DropBox.
 
 ## Annotation Consumer
 
