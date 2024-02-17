@@ -4,6 +4,9 @@
 1. All DICOM objects produced during the event will be made publicly available at the conclusion of the Connectathon.
    - This includes original input images and Annotation objects produced by Annotation Creators.
    - This does not include screen captures or video recordings of how Annotation Viewers render Annotation objects and/or WSI data.
+2. DICOM objects will be submitted using Creative Commons License X.
+   - (**Creative Commons License X** will be a link to the actual license).
+   - (We do not intend to further explain the licensing terms and will only include the appropriate reference.)
 
 ## Data Requirements
 See the last section on *Image Datasets* to understand how these will be submitted and used during the event.
