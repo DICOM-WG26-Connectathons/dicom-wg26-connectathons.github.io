@@ -21,7 +21,7 @@ This is not simple to describe with a clear set of renderings to include.
 For example, if your application generates 10,000 graphical objects for a single image, a single screen capture at the lowest magnification that shows overlapping anotations that cannot be distinguished is not very helpful.
 Submitting a single graphical object at the lowest magnification such that the rendering shows only a dot in a sea of cells is also not helpful.
 
-You will want to submit a small number of screen captures that will show a high level view of the annotation graphical objects with screen captures at higher magnification that will show more detail of the annotations.
+You will want to submit a small number of screen captures that will show a high level view of the annotation graphical objects and other views at higher magnification that will show more detail of the annotations.
 It will be important that the screen captures or possibly out of band text will show or describe landmarks on the slide to help the Project Manager and Viewer representatives compare the expected rendering with that produced by Viewer applications.
 
 See the section below for options on submitting the rendered images.
@@ -34,7 +34,6 @@ Annotation Creators using their own image set will need to submit those images t
 
 Use one of the methods desscribed below for submitting DICOM objects to the Archive systems.
 
-## AC-107: Review Slim Viewer rendering of your image/annotation sets and report results to Project Manager. Adjust images and/or annotations as directed by Project Manager.
 
 # File Sharing and Submission Options
 
@@ -45,7 +44,7 @@ It is related to sharing objects with the Archive systems described in the next 
 If you are using images found on the NEMA FTP server, you do not need to share those files with the Project Manager.
 As long as you identify the DICOM WSI pyramid(s), the Project Manager will find them.
 
-There are four methods you may use to share DICOM files with the Project Manager.
+There are three methods you may use to share DICOM files with the Project Manager.
 The goal is to get the files to the Project Manager as soon as possible.
 When selecting from the methods below, do not choose sending directly to Archive systems if that proves difficult or time consuming.
 
@@ -53,8 +52,7 @@ When selecting from the methods below, do not choose sending directly to Archive
    - This will not require you to create a Dropbox account or register. You will need to supply a name and email address to be used to notify you and the Project Manager when the upload is complete.
    - This will go into a private Dropbox folder. The Project Manager will review the files and distribute as needed.
 2. Choose another file sharing service of your choice where you can upload a zip of the DICOM objects or the individual files. You would then share a link with the Project Manager who would download the files and manage the process from there. This does not need to be Dropbox.
-3. If you have write access to the NEMA FTP server, you can submit your files to that system. We will indicate the folder for submitting your files. We will not provide a login/password.
-4. Submit your DICOM objects directly to at least one Archive that is ready for both input and Query/Retrieve. You can use DICOM C-Store or DICOM STOW-RS.
+3. Submit your DICOM objects directly to at least one Archive that is ready for both input and Query/Retrieve. You can use DICOM C-Store or DICOM STOW-RS.
    - If you start this path and see that there are delays, please switch to one of the methods described above.
 
 ## Methods for submiting DICOM Images and Annotation Objects to Archive Systems
@@ -63,8 +61,7 @@ When selecting from the methods below, do not choose sending directly to Archive
 This is an aspect of testing we would like to perform.
 2. You can submit the DICOM objects to the Archive using a non-DICOM method that you will negotiate with the Archive system. These options exist:
    - Point to a Dropbox folder that is hosted by the Project Manager.
-   - Point to a folder on the NEMA FTP server that will be created by you or the Project Manager.
-   - Choose a third method of file sharing that you negotiate with the Archive system.
+   - Choose an alternate method of file sharing that you negotiate with the Archive system.
 
 ## Methods for submitting screen captures to the Project Manager
 This will depend on the size and number of screen capture files that are included.

@@ -15,6 +15,7 @@
 
 
 ## Annotation Creator
+You can read the details on how to perform the tasks at [Annotation Creator Tasks](creator_tasks).
 
 | Task Label | Deadline   | Description                                                       |
 |------------|------------|-------------------------------------------------------------------|
@@ -23,8 +24,6 @@
 | AC-104     | 2024.03.15 | Submit proof of conformant annotations objects to Project Manager |
 | AC-105     | 2024.03.15 | Submit screen captures of rendered images + annotations           |
 | AC-106     | 2024.03.15 | Submit annotations to all archives                                |
-| AC-107     | 2024.03.15 | Review Slim Viewer rendering of your image/annotation sets and report results to Project Manager. Adjust images and/or annotations as directed by Project Manager. |
-
 
 
 
