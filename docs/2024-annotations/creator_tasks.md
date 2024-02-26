@@ -48,7 +48,7 @@ There are three methods you may use to share DICOM files with the Project Manage
 The goal is to get the files to the Project Manager as soon as possible.
 When selecting from the methods below, do not choose sending directly to Archive systems if that proves difficult or time consuming.
 
-1. Submit a zip of the DICOM objects to Dropbox using this link (Dropbox upload link)[https://www.dropbox.com/request/uu3fuuPy9hzJUAELLiWy].
+1. Submit a zip of the DICOM objects to Dropbox using this link [Dropbox upload link](https://www.dropbox.com/request/uu3fuuPy9hzJUAELLiWy).
    - This will not require you to create a Dropbox account or register. You will need to supply a name and email address to be used to notify you and the Project Manager when the upload is complete.
    - This will go into a private Dropbox folder. The Project Manager will review the files and distribute as needed.
 2. Choose another file sharing service of your choice where you can upload a zip of the DICOM objects or the individual files. You would then share a link with the Project Manager who would download the files and manage the process from there. This does not need to be Dropbox.
@@ -71,7 +71,7 @@ Please submit the screen captures in a zip file.
 If you are creating multiple Annotation Objects, you will need to submit one set of screen captures for each Annotation Object.
 You can submit individual zip files or a single zip file.
 
-1. Upload the zip file(s) to Dropbox using this link (Dropbox upload link)[https://www.dropbox.com/request/uu3fuuPy9hzJUAELLiWy]. This is the preferred method.
+1. Upload the zip file(s) to Dropbox using this link [Dropbox upload link](https://www.dropbox.com/request/uu3fuuPy9hzJUAELLiWy). This is the preferred method.
 2. Upload the zip file(s) to a file sharing service of your choice and send a link to the Project Manager.
 3. Send the zip file(s) to the Project Manager using email.
 You might have issues with the size of the zip files.
