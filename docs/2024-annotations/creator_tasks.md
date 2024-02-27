@@ -26,14 +26,16 @@ It will be important that the screen captures or possibly out of band text will 
 
 See the section below for options on submitting the rendered images.
 
-## AC-106: Submit annotations to all archives
+## AC-106: Submit images and annotations to all archives
 Annotation Creators who choose to use ECDP 2023 images found on the NEMA FTP server do not need to submit those images directly to the Archive systems.
 Those Creators need only identify the images to the Project Manager who will coordinate image submission with the Archive Systems.
 
 Annotation Creators using their own image set will need to submit those images to the Archive systems with their Annotation objects.
 
-Use one of the methods desscribed below for submitting DICOM objects to the Archive systems.
+Use one of the methods described below for submitting DICOM objects to the Archive systems.
 
+## AC-107: Submit citation information for data submitted
+To be described.
 
 # File Sharing and Submission Options
 
@@ -60,7 +62,7 @@ When selecting from the methods below, do not choose sending directly to Archive
 1. The preferred method to submit DICOM objects to an Archive is to use DICOM C-Store or STOW-RS.
 This is an aspect of testing we would like to perform.
 2. You can submit the DICOM objects to the Archive using a non-DICOM method that you will negotiate with the Archive system. These options exist:
-   - Point to a Dropbox folder that is hosted by the Project Manager.
+   - Point to a Dropbox folder that is hosted by the Project Manager. Submit to [Dropbox upload link](https://www.dropbox.com/request/uu3fuuPy9hzJUAELLiWy), and the Project Manager will make these available to all other participants.
    - Choose an alternate method of file sharing that you negotiate with the Archive system.
 
 ## Methods for submitting screen captures to the Project Manager

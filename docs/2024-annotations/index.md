@@ -22,6 +22,7 @@ Organizations create scanner systems are welcome to collaborate with the other s
 |------------|--------------------------------------------------------------------------------------------------------------|
 | 2024.01.22 | Registration Opens                                                                                           |
 | 2024.02.15 | Registration Closes                                                                                          |
+| 2024.03.08 | Archive systems ready to accept WSI files and Annotation Objects                                             |
 | 2024.03.15 | Annotation Creators submit images, annotations and other evidence                                            |
 | 2024.04.05 | Annotation Viewers submit video evidence of rendered annotations                                             |
 | 2024.04.19 | Test Manager / Subject Matter Expert complete review of video evidence                                       |
