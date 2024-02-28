@@ -2,9 +2,11 @@
 
 ## Archive
 
-| Task Label | Deadline   | Description           |
-|------------|------------|-----------------------|
-| AR-101     | 2024.02.15 | Complete registration |
+| Task Label | Deadline   | Description                                                            |
+|------------|------------|------------------------------------------------------------------------|
+| AR-101     | 2024.02.15 | Complete registration                                                  |
+| AR-102     | 2024.03.08 | Submit connection information needed by other actors                   |
+| AR-103     | 2024.03.15 | Be ready to service requests from Viewer and Annotation Conumer actors |
 
 
 ## Viewer
