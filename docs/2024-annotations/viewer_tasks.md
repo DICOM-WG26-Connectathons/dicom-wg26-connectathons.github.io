@@ -31,4 +31,11 @@ Please start each sequence with a slide that shows the Archive / Annotation Pair
 |                |                | IDC           | TCGA-2687                           | TCGA-AF-2690                      | POLYGON              |
 |                |                | IDC           | TCGA-2687                           | TCGA-AF-2690                      | RECTANGLE            |
 |                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | ELLIPSE              |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | POINT                |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | POLYGON              |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | POLYLINE             |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | RECTANGLE            |
+|                |                | Pramana       | Alpha^Amy                           | 95369d6b1530df5c                  | POLYGON              |
+|                |                | Pramana       |                                     | PRAMANA-P1                        | POLYGON              |
+|                |                | Techcyte      | Unscheduled^Patient^M01FBC13P-7983  | M01FBC13P-7983                    | RECTANGLE            |
 
