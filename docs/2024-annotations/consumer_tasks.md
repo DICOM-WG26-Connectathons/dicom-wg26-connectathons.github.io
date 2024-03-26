@@ -20,9 +20,38 @@ This might take the form of screen captures, database dumps, video recordings, f
 This task is tightly coupled to CON-103 where you describe your use of the Annotation Objects.
 You might decide to schedule a call with the Project Manager to discuss options for this task and/or CON-103.
 
+We have selected a subset of the Annotation Objects to use for testing.
+The table below lists those objects and the Archive systems hosting them.
+You should try to test with all of the object, but we understand that some objects might not be relevant for your application.
+When you do choose an Annotation Object from a Creator, please test your application with all Archive systems.
+
 You can email the evidence to the Project Manager if the attachment or attachments or less than 1 MB total.
 You can use this link [Dropbox upload link](https://www.dropbox.com/request/uu3fuuPy9hzJUAELLiWy) for uploading larger files if necessary.
 
+| Google Archive | J4Care Archive | Creator       | Patient Name                        | Patient ID                        | Annotation Object(s) |
+|----------------|----------------|---------------|-------------------------------------|-----------------------------------|----------------------|
+|                |                | 3DHISTECH     | Unscheduled^Patient^20240312152108  | ID_20240312152108                 | Multiple             |
+|                |                | AIRAMatrix    | Beta^Ben                            | 90745524fe7db480                  | POLYGON              |
+|                |                | AIRAMatrix    | Gamma^Gary                          | 6dd81acbe1156c37                  | POLYGON              |
+|                |                | Emory         | Alpha^Amy                           | 95369d6b1530df5c                  | POLYGON              |
+|                |                | Gestalt       | TCGA-2687                           | TCGA-AF-2687                      | POLYGON              |
+|                |                | Gestalt       | TCGA-2689                           | TCGA-AF-2689                      | POLYGON              |
+|                |                | Gestalt       | TCGA-2689                           | TCGA-AF-2690                      | POLYGON              |
+|                |                | Google        | GenLast^Jackson                     | GO-WSI-ANNOTATION-EXAMPLE-PATIENT | POLYGON              |
+|                |                | identify.bio  | Dummy^Patient                       | IB-001                            | POLYLINE             |
+|                |                | identify.bio  | Dummy^Patient                       | IB-002                            | POLYLINE             |
+|                |                | IDC           | TCGA-2687                           | TCGA-AF-2690                      | ELLIPSE              |
+|                |                | IDC           | TCGA-2687                           | TCGA-AF-2690                      | POINT                |
+|                |                | IDC           | TCGA-2687                           | TCGA-AF-2690                      | POLYGON              |
+|                |                | IDC           | TCGA-2687                           | TCGA-AF-2690                      | RECTANGLE            |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | ELLIPSE              |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | POINT                |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | POLYGON              |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | POLYLINE             |
+|                |                | NTUNHS        | Diagnostics^Roche^Tissue            | 0010                              | RECTANGLE            |
+|                |                | Pramana       | Alpha^Amy                           | 95369d6b1530df5c                  | POLYGON              |
+|                |                | Pramana       |                                     | PRAMANA-P1                        | POLYGON              |
+|                |                | Techcyte      | Unscheduled^Patient^M01FBC13P-7983  | M01FBC13P-7983                    | RECTANGLE            |
 
 ## CON-107: Submit citation information for data submitted
 To be described.
