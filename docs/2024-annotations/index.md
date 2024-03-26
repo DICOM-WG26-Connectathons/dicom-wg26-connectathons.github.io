@@ -18,13 +18,15 @@ Organizations create scanner systems are welcome to collaborate with the other s
 
 # Timeline
 
-| Date       |  Task Completion Date                                                                                        |
+| Date Due    |  Task                                                                                                       |
 |------------|--------------------------------------------------------------------------------------------------------------|
 | 2024.01.22 | Registration Opens                                                                                           |
 | 2024.02.15 | Registration Closes                                                                                          |
 | 2024.03.08 | Archive systems ready to accept WSI files and Annotation Objects                                             |
 | 2024.03.15 | Annotation Creators submit images, annotations and other evidence                                            |
 | 2024.04.05 | Annotation Viewers submit video evidence of rendered annotations                                             |
+| 2024.04.05 | Annotation Consumers submit description of how they will use annotations                                     |
+| 2024.04.12 | Annotation Consumers submit evidence demonstrating their use of annotations                                  |
 | 2024.04.19 | Test Manager / Subject Matter Expert complete review of video evidence                                       |
 | 2024.04.26 | Online review of Annotaton Viewers and Annotation Users by Test Manaager / Subject Matter Experts as needed. |
 | 2024.05.10 | Internal report for participants                                                                             |

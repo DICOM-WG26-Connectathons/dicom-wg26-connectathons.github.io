@@ -10,10 +10,12 @@
 
 
 ## Viewer
+You can read the details on how to perform the tasks at [Viewer Tasks](viewer_tasks).
 
-| Task Label | Deadline   | Description           |
-|------------|------------|-----------------------|
-| V-101      | 2024.02.15 | Complete registration |
+| Task Label | Deadline   | Description                                   |
+|------------|------------|-----------------------------------------------|
+| V-101      | 2024.02.15 | Complete registration                         |
+| V-104      | 2024.04.05 | Submit video evidence of rendered annotations |
 
 
 ## Annotation Creator
@@ -29,10 +31,12 @@ You can read the details on how to perform the tasks at [Annotation Creator Task
 | AC-107     | 2024.03.22 | Submit citation information for data submitted                    |
 
 
-
 ## Annotation Consumer
+You can read the details on how to perform the tasks at [Annotation Consumer Tasks](consumer_tasks).
 
-| Task Label | Deadline   | Description           |
-|------------|------------|-----------------------|
-| CON-101    | 2024.02.15 | Complete registration |
+| Task Label | Deadline   | Description                                           |
+|------------|------------|-------------------------------------------------------|
+| CON-101    | 2024.02.15 | Complete registration                                 |
+| CON-103    | 2024.04.05 | Submit description of software application            |
+| CON-104    | 2024.04.12 | Submit evidence demonstrating your use of annotations |
 
