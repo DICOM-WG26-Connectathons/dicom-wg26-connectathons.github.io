@@ -11,10 +11,10 @@ Organizations create scanner systems are welcome to collaborate with the other s
 
 | Actor              | Description                                       |
 |--------------------|---------------------------------------------------|
-| Archive            | Stores original digital slides, accepts annotations (STOW-RW), provides digital slides and annotations (QIDO-RS, WADO-RS) |
+| Archive            | Stores original digital slides, accepts annotations, provides digital slides and annotations (QIDO-RS, WADO-RS) |
 | Viewer             | Retrieves images and annotations (QIDO-RS, WADO-RS) and renders both images and annotations |
-| Annotation Creator | Creates annotations and stores them on archive system (STOW-RS)|
-| Annotation User    | Retrieves images and annotations (QIDO-RS, WADO-RS) and perforns some further function with that data |
+| Annotation Creator | Creates annotations and stores them on archive system |
+| Annotation User    | Retrieves images and annotations (QIDO-RS, WADO-RS) and performs some further function with that data |
 
 # Timeline
 
