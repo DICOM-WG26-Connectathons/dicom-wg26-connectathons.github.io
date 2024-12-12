@@ -40,7 +40,7 @@ To participate in the WG-26 Connectathon a participant needs to:
 
 ### Registration
 Registration is open from December 18th, 2024 - January 28th, 2025  
-#### [Spring 2025 WG-26 Connectahon ](https://docs.google.com/forms/d/e/1FAIpQLSewuhNqynEY_J15e4lBDPpyb5UhUY-DruqcX-HyKuKivCX_TA/viewform)
+#### [Connectathon Registration Link ](https://docs.google.com/forms/d/e/1FAIpQLSewuhNqynEY_J15e4lBDPpyb5UhUY-DruqcX-HyKuKivCX_TA/viewform)
 
 ### Connectathon Proposal & Technical Requirements
 The "Connectathon Proposal" provides an overview of the event and describes the technical requirements a participant should meet.
