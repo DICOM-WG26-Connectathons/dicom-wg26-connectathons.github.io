@@ -1,8 +1,4 @@
 ![DICOM Logo](https://www.dicomstandard.org/images/librariesprovider2/default-album/dicom-logo.jpg)
-<!-- <img style="float: right;" src="https://www.dicomstandard.org/images/librariesprovider2/default-album/dicom-logo.jpg)"> -->
-
-# Working Group 26 - Connectathons
-Information about DICOM WG26 Connectathons
 
 ### Current Connectathons:
 - [2025 Connectahon / ECDP 2025](./2025/index.md)

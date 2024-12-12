@@ -1,4 +1,5 @@
-# Overview
+![DICOM Logo](https://www.dicomstandard.org/images/librariesprovider2/default-album/dicom-logo.jpg)
+## Spring 2025 - Connectathon
 
 The 2025 DICOM WG-26 Connectathon will take place between January 29th - June 3rd, 2025. **Registration is open from Dec 18th, 2024 - January 28th, 2025.**
 
@@ -20,9 +21,7 @@ Participants in the Spring 2025 Connecathon may have opportunity to participate 
   - Viewer (“Image Display”)
   - Annotation Creator (“Evidence Creator”)
   - Consumer (“Image Display” that supports annotations)
-  
-<!-- ![Actors Overview](/docs/assets/images/Connectathon-Actors-Overview.png) -->
-<img src="./assets/images/connectathon-actors-overview.png" alt="Actors Overview"/>
+![Actors Overview](https://dicom-wg26-connectathons.github.io/assets/images/connectathon-actors-overview.png)
 
 - Virtual demonstration of image acquisition workflow from scanning to annotation creation and viewing (end to end)
 - Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
