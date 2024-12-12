@@ -20,7 +20,9 @@ Participants in the Spring 2025 Connecathon may have opportunity to participate 
   - Viewer (“Image Display”)
   - Annotation Creator (“Evidence Creator”)
   - Consumer (“Image Display” that supports annotations)
-![DICOM Logo](../assets/images/Connectathon-Actors-Overview.png)
+  
+![DICOM Logo](/docs/assets/images/Connectathon-Actors-Overview.png)
+
 - Virtual demonstration of image acquisition workflow from scanning to annotation creation and viewing (end to end)
 - Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
 - Educate digital pathology users on the value of DICOM interoperability such they will ask for it from their vendors.
@@ -37,7 +39,7 @@ To participate in the WG-26 Connectathon a participant needs to:
 - Actively participate in interoperability testing and validation during the event.
 
 ### Registration
-Registration is open from December 18th, 2024 - January 28th, 2025
+Registration is open from December 18th, 2024 - January 28th, 2025  
 [Spring 2025 WG-26 Connectahon ](https://docs.google.com/forms/d/e/1FAIpQLSewuhNqynEY_J15e4lBDPpyb5UhUY-DruqcX-HyKuKivCX_TA/viewform)
 
 ### Connectathon Proposal & Technical Requirements
