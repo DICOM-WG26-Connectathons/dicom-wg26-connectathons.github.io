@@ -22,7 +22,7 @@ Participants in the Spring 2025 Connecathon may have opportunity to participate 
   - Consumer (“Image Display” that supports annotations)
   
 <!-- ![Actors Overview](/docs/assets/images/Connectathon-Actors-Overview.png) -->
-<img src="/docs/assets/images/connectathon-actors-overview.png" alt="Actors Overview"/>
+<img src="./assets/images/connectathon-actors-overview.png" alt="Actors Overview"/>
 
 - Virtual demonstration of image acquisition workflow from scanning to annotation creation and viewing (end to end)
 - Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
