@@ -1,10 +1,10 @@
 ![DICOM Logo](https://www.dicomstandard.org/images/librariesprovider2/default-album/dicom-logo.jpg)
 
 ### Current Connectathons:
-- [2025 Connectahon / ECDP 2025](./2025/index.md)
+- [Spring 2025 Connectahon](./2025/index.md)
 
 ### Past Connectathons
-- [2024 Connectahon / ECDP 2024](./2024-annotations/index.md)  
+- [Spring 2024 Connectahon](./2024-annotations/index.md)  
 
 ## About WG-26 Connectathons
 A recurring topic of discussion during DICOM WG-26 meetings is how to engage the pathology community with DICOM and raise the level of awareness amongst pathologists about both DICOM and interoperability. Since 2017, WG-26 sponsored “Connectathons” have proven to be a useful tool for both helping increase interoperability awareness in the community, validate the capabilities of participants, and identify areas for improvement in the standard.  
