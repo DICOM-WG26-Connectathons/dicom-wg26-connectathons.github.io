@@ -12,21 +12,6 @@ Participants in the Spring 2025 Connecathon may have opportunity to participate 
 - Various workflow-specific services will be optionally tested (like storage commitment)
 - Color management by viewer through use of ICC profiles created by scanners is expected
 
-### Goals
-
-- Engage all primary actors in digital pathology interoperability: 
-  - Anatomic Pathology Laboratory Information System (AP-LIS) (“Acquisition Manager”)
-  - Slide Scanner (“Acquisition Modality”)
-  - Archive (“Image Archive//Manager”)
-  - Viewer (“Image Display”)
-  - Annotation Creator (“Evidence Creator”)
-  - Consumer (“Image Display” that supports annotations)
-![Actors Overview](https://dicom-wg26-connectathons.github.io/assets/images/connectathon-actors-overview.png)
-
-- Virtual demonstration of image acquisition workflow from scanning to annotation creation and viewing (end to end)
-- Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
-- Educate digital pathology users on the value of DICOM interoperability such they will ask for it from their vendors.
-
 ### Who Can Participate?
 
 Any organization that develops, supports or operates a technology system related to the goals of the current Connectathon may register to participate.  This includes software or hardware vendors who supply a solution that qualifies for one of the primary actors in the digital pathology interoperability ecosystem.  It also includes healthcare organizations that operate a technology system.  Participants may utilize systems that fulfill one or more of the actor roles defined.  
@@ -41,6 +26,21 @@ To participate in the WG-26 Connectathon a participant needs to:
 ### Registration
 Registration is open from December 18th, 2024 - January 28th, 2025  
 #### [Connectathon Registration Link ](https://docs.google.com/forms/d/e/1FAIpQLSewuhNqynEY_J15e4lBDPpyb5UhUY-DruqcX-HyKuKivCX_TA/viewform)
+
+### Goals
+
+- Engage all primary actors in digital pathology interoperability: 
+  - Anatomic Pathology Laboratory Information System (AP-LIS) (“Acquisition Manager”)
+  - Slide Scanner (“Acquisition Modality”)
+  - Archive (“Image Archive//Manager”)
+  - Viewer (“Image Display”)
+  - Annotation Creator (“Evidence Creator”)
+  - Consumer (“Image Display” that supports annotations)
+![Actors Overview](https://dicom-wg26-connectathons.github.io/assets/images/connectathon-actors-overview.png)
+
+- Virtual demonstration of image acquisition workflow from scanning to annotation creation and viewing (end to end)
+- Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
+- Educate digital pathology users on the value of DICOM interoperability such they will ask for it from their vendors.
 
 ### Connectathon Proposal & Technical Requirements
 The "Connectathon Proposal" provides an overview of the event and describes the technical requirements a participant should meet.
