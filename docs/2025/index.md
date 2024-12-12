@@ -4,7 +4,7 @@ The 2025 DICOM WG-26 Connectathon will take place between January 29th - June 3r
 
 Participants in the Spring 2025 Connecathon may have opportunity to participate in an Interoperability Showcase at  21st European Congress on Digital Pathology:  [ECDP 2025](https://www.ecdp2025.org/).
 
-The Spring 2025 Connectathon is distinctive in that for the first time:
+**The Spring 2025 Connectathon is distinctive in that for the first time:**
 
 - AP-LIS implementers are expected to participate and provide slide metadata via IHE PaLM DPIA HL7 V2 messages that can be used by the slide scanners
 - Full image acquisition workflow (IS->scanner->archive->viewer) is combined with annotation creation (so-called “Evidence Creator” actors) rather than using only pre-staged offline image files to test annotation creation and archiving
@@ -20,6 +20,7 @@ The Spring 2025 Connectathon is distinctive in that for the first time:
   - Viewer (“Image Display”)
   - Annotation Creator (“Evidence Creator”)
   - Consumer (“Image Display” that supports annotations)
+![DICOM Logo](../assets/images/Connectathon-Actors-Overview.png)
 - Virtual demonstration of image acquisition workflow from scanning to annotation creation and viewing (end to end)
 - Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
 - Educate digital pathology users on the value of DICOM interoperability such they will ask for it from their vendors.
