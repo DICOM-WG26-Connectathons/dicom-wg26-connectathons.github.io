@@ -24,7 +24,7 @@ To participate in the WG-26 Connectathon a participant needs to:
 - Actively participate in interoperability testing and validation during the event.
 
 ### Registration
-Registration is open from December 18th, 2024 - January 28th, 2025  
+Registration is open from December 18th, 2024 - January 28th, 2025.  Participation in this Connectathon will be closed after the deadline so please register before.  
 #### [Connectathon Registration Link ](https://docs.google.com/forms/d/e/1FAIpQLSewuhNqynEY_J15e4lBDPpyb5UhUY-DruqcX-HyKuKivCX_TA/viewform)
 
 ### Goals
