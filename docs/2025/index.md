@@ -38,7 +38,8 @@ Registration is open from December 18th, 2024 - January 28th, 2025.  Participati
   - Viewer (“Image Display”)
   - Annotation Creator (“Evidence Creator”)
   - Consumer (“Image Display” that supports annotations)
-![Actors Overview](https://dicom-wg26-connectathons.github.io/assets/images/connectathon-actors-overview.png)
+
+<object data="../assets/images/2025SpringConnectathonTechnicalOverview_ActorsAndTransactions.svg" type="image/svg+xml"><img src="../assets/images/connectathon-actors-overview.png"/></object>
 
 - Virtual demonstration of image acquisition workflow from scanning to annotation creation and viewing (end to end)
 - Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
