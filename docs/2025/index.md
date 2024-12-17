@@ -3,7 +3,7 @@
 
 The 2025 DICOM WG-26 Connectathon will take place between January 29th - June 3rd, 2025. **Registration is open from Dec 18th, 2024 - January 28th, 2025.**
 
-Participants in the Spring 2025 Connecathon may have opportunity to participate in an Interoperability Showcase at  21st European Congress on Digital Pathology:  [ECDP 2025](https://www.ecdp2025.org/).
+Participants in the Spring 2025 Connecathon may have opportunity to participate in an Interoperability Showcase at the 2025 [European Congress on Digital Pathology](https://www.ecdp2025.org/) and at the 2025 [Pathology Visions Conference](https://digitalpathologyassociation.org/pathology-visions-conference).
 
 **The Spring 2025 Connectathon is distinctive in that for the first time:**
 
@@ -11,6 +11,8 @@ Participants in the Spring 2025 Connecathon may have opportunity to participate 
 - Full image acquisition workflow (IS->scanner->archive->viewer) is combined with annotation creation (so-called “Evidence Creator” actors) rather than using only pre-staged offline image files to test annotation creation and archiving
 - Various workflow-specific services will be optionally tested (like storage commitment)
 - Color management by viewer through use of ICC profiles created by scanners is expected
+
+Additionally the Connectathon will be conducted "virtually" with all participants connecting via public networks.
 
 ### Who Can Participate?
 
