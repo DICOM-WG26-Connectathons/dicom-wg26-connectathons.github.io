@@ -39,7 +39,7 @@ Registration is open from December 18th, 2024 - January 28th, 2025.  Participati
   - Annotation Creator (“Evidence Creator”)
   - Consumer (“Image Display” that supports annotations)
 
-<object data="../assets/images/2025SpringConnectathonTechnicalOverview_ActorsAndTransactions.svg" type="image/svg+xml"><img src="../assets/images/connectathon-actors-overview.png"/></object>
+<img src="../assets/images/2025SpringConnectathonTechnicalOverview_ActorsAndTransactions.svg" type="image/svg+xml"><img src="../assets/images/connectathon-actors-overview.png"/></img>
 
 - Virtual demonstration of image acquisition workflow from scanning to annotation creation and viewing (end to end)
 - Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
@@ -48,6 +48,6 @@ Registration is open from December 18th, 2024 - January 28th, 2025.  Participati
 ### Connectathon Proposal & Technical Requirements
 The "Connectathon Proposal" provides an overview of the event and describes the technical requirements a participant should meet.
 
-The Proposal will be approved by the Working Group 26 on December 17th, 2025.  Some of the requirements may be adjusted prior to start of the Connectathon on January 29th, 2025
+The Proposal was approved by the DICOM Working Group 26 on December 17th, 2025.  Some of the requirements may be adjusted prior to start of the Connectathon on January 29th, 2025
 
-[WG-26 Connectathon Proposal - Spring 2025](https://docs.google.com/document/d/14vsux-nY8lVgMhIF86IC5Y6CDCZq8HiY/edit?usp=sharing&ouid=111083561697945911253&rtpof=true&sd=true)
+[WG-26 Connectathon Proposal - Spring 2025](https://docs.google.com/document/d/1Ivs091391wGEjpZQZKfWG8I7Kk0S5twK/edit?usp=sharing&ouid=111083561697945911253&rtpof=true&sd=true)
