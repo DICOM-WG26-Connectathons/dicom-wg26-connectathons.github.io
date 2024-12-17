@@ -8,7 +8,7 @@ Participants in the Spring 2025 Connecathon may have opportunity to participate 
 **The Spring 2025 Connectathon is distinctive in that for the first time:**
 
 - AP-LIS implementers are expected to participate and provide slide metadata via IHE PaLM DPIA HL7 V2 messages that can be used by the slide scanners
-- Full image acquisition workflow (IS->scanner->archive->viewer) is combined with annotation creation (so-called “Evidence Creator” actors) rather than using only pre-staged offline image files to test annotation creation and archiving
+- Full image acquisition workflow (IS->scanner->archive->viewer) is combined with annotation creation (“Evidence Creator” actors) rather than using only pre-staged offline image files to test annotation creation and archiving
 - Various workflow-specific services will be optionally tested (like storage commitment)
 - Color management by viewer through use of ICC profiles created by scanners is expected
 
