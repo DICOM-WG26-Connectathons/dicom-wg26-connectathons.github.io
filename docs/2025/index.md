@@ -1,5 +1,5 @@
 <!-- ![DICOM Logo](https://www.dicomstandard.org/images/librariesprovider2/default-album/dicom-logo.jpg) -->
-![DICOM Logo](../assets/images/DPA_DICOM-Connectathon_smaller.svg)
+![DICOM Logo](../assets/images/DPA_DICOM-Connectathon_small.svg)
 ## Spring 2025 - Connectathon
 
 The 2025 DICOM WG-26 Connectathon will take place between January 29th - June 3rd, 2025. **Registration is open from Dec 18th, 2024 - January 28th, 2025.**
