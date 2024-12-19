@@ -8,7 +8,7 @@
 - [2023 Connectathon](https://docs.google.com/presentation/d/1L1QMVQTHAhd0XUJvLa-9QnfSZYv0a-_NBXDLEJithXA)
 - 2022 Connectathons [Abstract](https://www.sciencedirect.com/science/article/pii/S2153353923001244#s0170)
 - [2021 Annotation Hackathon](https://github.com/DICOMWG26AnnotationAHG/hackathon) and [Abstract](https://dx.doi.org/doi:10.1016/j.jpi.2022.100020)
-- [2019 Conectathons](https://pathcore.com/resources/2019-connectathon-results-2020-roadmap)
+- [2019 Connectathons](https://pathcore.com/resources/2019-connectathon-results-2020-roadmap)
 - [2018 Connectathons](https://pathcore.com/resources/2018-connectathon-wrapup-and-results)
 - [2017 Connectathon](https://dx.doi.org/10.4103/jpi.jpi_1_18)
 
