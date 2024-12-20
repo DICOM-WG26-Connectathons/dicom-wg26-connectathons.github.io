@@ -47,7 +47,7 @@ Registration is open from December 18th, 2024 - January 28th, 2025.  Participati
 - Educate digital pathology users on the value of DICOM interoperability such they will ask for it from their vendors.
 
 ### Connectathon Technical Requirements
-The "Connectathon Technical Requirements" document provides an overview of the event and describes the technical requirements a participant needs to satisfy.
+The requirements document provides an overview of the event and describes the technical and logistical requirements a participant needs to satisfy.
 
 The document was approved by the DICOM Working Group 26 on December 17th, 2025.  Some of the requirements may be adjusted prior to start of the Connectathon on January 29th, 2025
 
