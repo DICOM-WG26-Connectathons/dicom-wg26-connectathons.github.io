@@ -46,9 +46,9 @@ Registration is open from December 18th, 2024 - January 28th, 2025.  Participati
 - Demonstrate the ability of viewers to consume and display Bulk Microscopy Annotations from any creator
 - Educate digital pathology users on the value of DICOM interoperability such they will ask for it from their vendors.
 
-### Connectathon Proposal & Technical Requirements
-The "Connectathon Proposal" provides an overview of the event and describes the technical requirements a participant should meet.
+### Connectathon Technical Requirements
+The "Connectathon Technical Requirements" document provides an overview of the event and describes the technical requirements a participant needs to satisfy.
 
-The Proposal was approved by the DICOM Working Group 26 on December 17th, 2025.  Some of the requirements may be adjusted prior to start of the Connectathon on January 29th, 2025
+The document was approved by the DICOM Working Group 26 on December 17th, 2025.  Some of the requirements may be adjusted prior to start of the Connectathon on January 29th, 2025
 
-[WG-26 Connectathon Proposal - Spring 2025](https://docs.google.com/document/d/1Ivs091391wGEjpZQZKfWG8I7Kk0S5twK/edit?usp=sharing&ouid=111083561697945911253&rtpof=true&sd=true)
+[DICOM Digital Pathology Connectathon Technical Requirements - Spring 2025](https://docs.google.com/document/d/1Ivs091391wGEjpZQZKfWG8I7Kk0S5twK/edit?usp=sharing&ouid=111083561697945911253&rtpof=true&sd=true)
