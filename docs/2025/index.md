@@ -1,8 +1,11 @@
-<!-- ![DICOM Logo](https://www.dicomstandard.org/images/librariesprovider2/default-album/dicom-logo.jpg) -->
 ![Banner](../assets/images/DPA_DICOM-Connectathon_small.jpg)
 ## Spring 2025 - Connectathon
 
-The 2025 DICOM WG-26 Connectathon will take place between January 29th - June 3rd, 2025. **Registration is open from Dec 18th, 2024 - January 28th, 2025.**
+#### *[Important Links](./links.md)*
+
+The 2025 DICOM WG-26 Connectathon will take place between January 29th - June 3rd, 2025. 
+
+Registration is open from Dec 18th, 2024 - January 28th, 2025.
 
 Participants in the Spring 2025 Connecathon may have opportunity to participate in an Interoperability Showcase at the 2025 [European Congress on Digital Pathology](https://www.ecdp2025.org/) and at the 2025 [Pathology Visions Conference](https://digitalpathologyassociation.org/pathology-visions-conference).
 
