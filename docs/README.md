@@ -10,7 +10,7 @@
 - [2021 Annotation Hackathon](https://github.com/DICOMWG26AnnotationAHG/hackathon) and [Abstract](https://dx.doi.org/doi:10.1016/j.jpi.2022.100020)
 - [2019 Connectathons](https://pathcore.com/resources/2019-connectathon-results-2020-roadmap)
 - [2018 Connectathons](https://pathcore.com/resources/2018-connectathon-wrapup-and-results)
-- [2017 Connectathon](https://dx.doi.org/10.4103/jpi.jpi_1_18)
+- [2017 Connectathon](https://dicom.nema.org/dicom/dicomwsi/Connectathon/index_old_withactualcontent.html) and [Results](https://dx.doi.org/10.4103/jpi.jpi_1_18)
 
 ## About WG-26 Connectathons
 A recurring topic of discussion during DICOM WG-26 meetings is how to engage the pathology community with DICOM and raise the level of awareness amongst pathologists about both DICOM and interoperability. Since 2017, WG-26 sponsored “Connectathons” have proven to be a useful tool for both helping increase interoperability awareness in the community, validate the capabilities of participants, and identify areas for improvement in the standard.  
