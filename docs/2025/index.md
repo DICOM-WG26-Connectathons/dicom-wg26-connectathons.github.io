@@ -55,3 +55,8 @@ The requirements document provides an overview of the event and describes the te
 The document was approved by the DICOM Working Group 26 on December 17th, 2025.  Some of the requirements may be adjusted prior to start of the Connectathon on January 29th, 2025
 
 [DICOM Digital Pathology Connectathon Technical Requirements - Spring 2025](https://docs.google.com/document/d/1Ivs091391wGEjpZQZKfWG8I7Kk0S5twK/edit?usp=sharing&ouid=111083561697945911253&rtpof=true&sd=true)
+
+### Previous WG 26 Connectathons
+
+[Links to information about previous events](https://dicom-wg26-connectathons.github.io/)
+
