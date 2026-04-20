@@ -1,5 +1,5 @@
 ![Banner](../assets/images/DPA_DICOM-Connectathon_small.jpg)
-## Spring 2025 - Connectathon
+# Spring 2026 - Connectathon
 
 #### *[Important Links](./links.md)*
 
