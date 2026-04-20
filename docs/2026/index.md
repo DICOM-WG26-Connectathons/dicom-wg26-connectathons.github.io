@@ -1,7 +1,6 @@
 ![Banner](../assets/images/DPA_DICOM-Connectathon_small.jpg)
 # Spring 2026 - Connectathon
 
-#### *[Important Links](./links.md)*
 
 The 2026 DICOM WG-26 Connectathon will take place between May 6th - August 28th, 2026. 
 
