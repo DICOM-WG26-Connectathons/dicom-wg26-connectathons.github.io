@@ -1,9 +1,10 @@
 ![DICOM Logo](https://www.dicomstandard.org/images/librariesprovider2/default-album/dicom-logo.jpg)
 
 ### Current Connectathons:
-- [Spring 2025 Connectahon](./2025/index.md)
+- [Spring 2026 Connectahon](./2026/index.md)
 
 ### Past Connectathons
+- [Spring 2025 Connectahon](./2025/index.md)
 - [Spring 2024 Connectahon](./2024-annotations/index.md) and [Results](https://docs.google.com/presentation/d/1ue09BUxJT1pvTLG-OBRpO6-flwNIAqxZQ3L8a86tNPI)
 - [2023 Connectathon](https://docs.google.com/presentation/d/1L1QMVQTHAhd0XUJvLa-9QnfSZYv0a-_NBXDLEJithXA)
 - 2022 Connectathons [Abstract](https://www.sciencedirect.com/science/article/pii/S2153353923001244#s0170)
