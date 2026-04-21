@@ -30,9 +30,8 @@ Registration is open from April 21st - May 13th, 2026.  Participation in this Co
   - Anatomic Pathology Laboratory Information System (AP-LIS) (“Acquisition Manager”)
   - Slide Scanner (“Acquisition Modality”)
   - Archive (“Image Archive//Manager”)
-  - Viewer (“Image Display”)
+  - Viewer (“Image Display” that supports images +/- annotations)
   - Annotation Creator (“Evidence Creator”)
-  - Consumer (“Image Display” that supports images +/- annotations)
 
 ### Connectathon Logistical Requirements
 The requirements document provides an overview of the event and describes the technical and logistical requirements a participant needs to satisfy.
