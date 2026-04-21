@@ -1,13 +1,11 @@
 ![Banner](../assets/images/banner_Connectathon.png)
 # 2026 - Connectathon
 
-
-The 2026 DICOM WG-26 Connectathon will take place between May 6th - August 28th, 2026. 
+The 2026 Global Digital Pathology Connectathon will take place between May 6th - August 28th, 2026. 
 
 Registration is open from **April 21st - May 13th, 2026**.
 
-Participants in the Spring 2026 Connecathon may have opportunity to participate in an Interoperability Showcase at the 2026 [Pathology Visions Conference](https://digitalpathologyassociation.org/pathology-visions-conference).
-
+Participants in the 2026 Connecathon may have opportunity to participate in an Interoperability Showcase at the 2026 [Pathology Visions Conference](https://digitalpathologyassociation.org/pathology-visions-conference).
 
 Similar to the last couple years, the Connectathon will be conducted "virtually" with all participants connecting via public networks.
 
