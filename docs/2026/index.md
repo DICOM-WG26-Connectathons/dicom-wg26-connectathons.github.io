@@ -1,5 +1,5 @@
 ![Banner](../assets/images/DPA_DICOM-Connectathon_small.jpg)
-# Spring 2026 - Connectathon
+# 2026 - Connectathon
 
 
 The 2026 DICOM WG-26 Connectathon will take place between May 6th - August 28th, 2026. 
@@ -34,12 +34,23 @@ Registration is open from April 21st - May 13th, 2026.  Participation in this Co
   - Archive (“Image Archive//Manager”)
   - Viewer (“Image Display”)
   - Annotation Creator (“Evidence Creator”)
-  - Consumer (“Image Display” that supports annotations)
-
+  - Consumer (“Image Display” that supports images +/- annotations)
 
 ### Connectathon Logistical Requirements
 The requirements document provides an overview of the event and describes the technical and logistical requirements a participant needs to satisfy.
 
-The document was approved by the DICOM Working Group 26 on April 20th, 2026.  Some of the requirements may be adjusted prior to start of the Connectathon on May 8th, 2026
+The document was approved by the DICOM Working Group 26 on April 21st, 2026.  Some of the requirements may be adjusted prior to start of the Connectathon on May 8th, 2026.
 
-[DICOM Digital Pathology Connectathon Logistical Requirements - Spring 2026](https://docs.google.com/document/d/1KRv6m-WpVxY-ZSjXJnPJ9XLK7fsJYQUI)
+[DICOM Digital Pathology Connectathon Logistical Requirements - 2026](https://docs.google.com/document/d/1KRv6m-WpVxY-ZSjXJnPJ9XLK7fsJYQUI)
+
+### Connectathon Technical Requirements
+The requirements document provides an overview of the event and describes the technical and logistical requirements a participant needs to satisfy.
+
+The document was approved by the DICOM Working Group 26 on April 21st, 2026.  Some of the requirements may be adjusted prior to start of the Connectathon on May 8th, 2026.
+
+[DICOM Digital Pathology Connectathon Technical Requirements - 2026](https://docs.google.com/document/d/1VH7olijdBBCXR1WPdrn7AhrdFzg8leKa)
+
+### Previous WG 26 Connectathons
+
+[Links to information about previous events](https://dicom-wg26-connectathons.github.io/)
+
