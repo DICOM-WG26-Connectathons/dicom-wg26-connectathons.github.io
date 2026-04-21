@@ -1,7 +1,7 @@
 ![DICOM Logo](https://www.dicomstandard.org/images/librariesprovider2/default-album/dicom-logo.jpg)
 
 ### Current Connectathons:
-- [Spring 2026 Connectahon](./2026/index.md)
+- [2026 Connectahon](./2026/index.md)
 
 ### Past Connectathons
 - [Spring 2025 Connectahon](./2025/index.md)
