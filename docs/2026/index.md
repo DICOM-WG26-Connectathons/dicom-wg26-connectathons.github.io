@@ -3,7 +3,7 @@
 
 The 2026 Global Digital Pathology Connectathon will take place between May 6th - August 28th, 2026. 
 
-Registration is open from **April 21st - May 13th, 2026**.
+Registration is open from **April 21st - May 6th, 2026**.
 
 Participants in the 2026 Connecathon may have opportunity to participate in an Interoperability Showcase at the 2026 [Pathology Visions Conference](https://digitalpathologyassociation.org/pathology-visions-conference).
 
@@ -38,7 +38,7 @@ The requirements document provides an overview of the event and describes the te
 
 The document was approved by the DICOM Working Group 26 on April 21st, 2026.  Some of the requirements may be adjusted prior to start of the Connectathon on May 8th, 2026.
 
-[DICOM Digital Pathology Connectathon Logistical Requirements - 2026](https://docs.google.com/document/d/1KRv6m-WpVxY-ZSjXJnPJ9XLK7fsJYQUI)
+[DICOM Digital Pathology Connectathon Logistical Requirements - 2026](https://digitalpathologyassociation.org/_data/media/100766/connectathon-logistics-doc.pdf)
 
 ### Connectathon Technical Requirements
 The requirements document provides an overview of the event and describes the technical and logistical requirements a participant needs to satisfy.
