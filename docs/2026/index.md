@@ -1,4 +1,4 @@
-![Banner](../assets/images/DPA_DICOM-Connectathon_small.jpg)
+![Banner](../assets/images/banner_Connectathon.png)
 # 2026 - Connectathon
 
 
