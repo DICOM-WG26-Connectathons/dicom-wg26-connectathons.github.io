@@ -1,7 +1,7 @@
 ![Banner](../assets/images/banner_Connectathon.png)
 # 2026 - Connectathon
 
-The 2026 Global Digital Pathology Connectathon will take place between May 6th - August 28th, 2026. 
+The 2026 Global Digital Pathology Connectathon will take place between May 13th - August 28th, 2026. 
 
 Registration is open from **April 21st - May 6th, 2026**.
 
