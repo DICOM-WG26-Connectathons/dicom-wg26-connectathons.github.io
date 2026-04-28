@@ -36,7 +36,7 @@ Registration is open from April 21st - May 13th, 2026.  Participation in this Co
 ### Connectathon Logistical Requirements
 The logistical requirements document provides an overview of the event and describes the technical and logistical requirements a participant needs to satisfy. (**Note: The milestones and timelines are still being finalized as of 4/21/26.**)
 
-[DICOM Digital Pathology Connectathon Logistical Requirements - 2026](https://digitalpathologyassociation.org/_data/media/100766/connectathon-logistics-doc.pdf)
+[DICOM Digital Pathology Connectathon Logistical Requirements - 2026](https://docs.google.com/document/d/1KRv6m-WpVxY-ZSjXJnPJ9XLK7fsJYQUI)
 
 ### Connectathon Technical Requirements
 The technical document provides an overview of the technical requirements to participate in the Connectathon.
